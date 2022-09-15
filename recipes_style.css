@@ -1,0 +1,48 @@
+body {
+    width: 500px;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+.centered-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#Title{
+    background-color: rgb(228, 199, 155);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+#List-Meal{
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+li {
+    padding: 5px;
+}
+#List-Meal li::marker {
+    content: "⮞";
+}
+h1, h2,p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+h2{
+    font-size: medium;
+}
+p {
+    font-size: small;
+}
+div {
+    margin-top: 0%;
+    margin-left: 80%;
+    width: 1000px;
+    background-color: rgb(168, 174, 153);
+}
