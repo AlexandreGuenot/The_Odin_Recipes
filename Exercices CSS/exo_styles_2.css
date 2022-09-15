@@ -1,0 +1,24 @@
+/* Ex 2 */
+*{
+    width: 700px;
+}
+.number_1, .number_3, .number_5{ 
+    background-color: rgb(216, 172, 172);
+    font-family: 'Verdana', 'Deja Vu Sans' sans-serif;
+    
+}
+
+#number_2{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.number_3{
+    font-size: 24px;
+}
+
+#number_4{
+    background-color: rgb(146, 232, 133);
+    font-size: 24px;
+    font-weight: bold;
+}
